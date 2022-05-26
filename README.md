@@ -1,4 +1,3 @@
-# etherscan_api
 This repo helps you with consuming Etherscan APIs in python.
 Currently we just have a script to get Eth balance for a given address. Follow the steps below to get up and running with it.
  - Clone this repo/ download the script
